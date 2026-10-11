@@ -3,6 +3,7 @@
 ## [1.2.0] - 2026-10-11
 ### Added
 - Annotations on the selection: arrow, rectangle, ellipse, line, marker, text (editable after typing), numbered markers, blur; any color, thickness and size by mouse wheel, select / move / resize / delete, undo and redo.
+- Pencil (free-hand drawing) among the annotation tools.
 - Fix the layout of selected text in any program with a global hotkey (`Ctrl+Alt+L` by default).
 - Color picker (`Ctrl+Shift+P`): magnifier, HEX / RGB copying.
 - Screen ruler (`Ctrl+Shift+I`): width, height, length, angle; angle step with `Shift` (5°), `Ctrl` (0.5°), `Ctrl+Shift` (45°).
